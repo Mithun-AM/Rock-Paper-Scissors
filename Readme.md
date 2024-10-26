@@ -1,1 +1,1 @@
-This is basic rock, paper, scissors game
+This is a basic rock, paper, scissors game
