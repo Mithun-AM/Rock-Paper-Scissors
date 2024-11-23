@@ -4,6 +4,11 @@
 
 This is a simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. The user can play against the computer, and the game tracks the score for both the user and the computer. The interface displays the choices (Rock, Paper, Scissors) as clickable images, and the result of each round is displayed with a corresponding message.
 
+## Deployment
+
+Here is the link to the deployed version of the game:  
+[Tic-Tac-Toe - GitHub Pages](https://mithun-am.github.io/Rock-Paper-Scissors/)
+
 ## Features
 
 - **User vs Computer:** The player competes against the computer in the classic Rock-Paper-Scissors game.
