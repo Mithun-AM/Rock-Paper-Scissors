@@ -25,7 +25,8 @@ To run the Rock-Paper-Scissors game locally, follow these steps:
    ```bash
    git clone https://github.com/Mithun-AM/Rock-Paper-Scissors.git
 
-## How to Run
-1. Clone the repository to your local machine.
-2. Open the index.html file in any modern web browser.
-3. Start playing!
+2.cd Rock-Paper-Scissors
+
+3. Open the index.html file in any modern web browser.
+
+4. Start playing!
