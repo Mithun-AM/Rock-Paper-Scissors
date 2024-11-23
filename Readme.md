@@ -7,7 +7,7 @@ This is a simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.
 ## Deployment
 
 Here is the link to the deployed version of the game:  
-[Tic-Tac-Toe - GitHub Pages](https://mithun-am.github.io/Rock-Paper-Scissors/)
+[Rock-Paper-Scissors - GitHub Pages](https://mithun-am.github.io/Rock-Paper-Scissors/)
 
 ## Features
 
